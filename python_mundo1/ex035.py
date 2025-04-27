@@ -11,5 +11,3 @@ if (ladoA + ladoB > ladoC) and (ladoA + ladoC > ladoB) and (ladoB + ladoC > lado
 else:
     print("As medidas enviadas NÃO PODEM formar um triângulo.")
     
-valor = 3 * 5 + 4 ** 2
-print(valor)
