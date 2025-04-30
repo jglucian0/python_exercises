@@ -3,7 +3,7 @@
 # print(c)
 # print(‘Acabou’)
 
-# Estrutura de laço com variável de controle
+# Estrutura de repetição com variável de controle
 for cont in range(0, 3): # Realiza a contagem 3x "count" pode mudar, serve para indentificação
   print("passo")
 print("final")
